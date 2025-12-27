@@ -1,3 +1,4 @@
+
 export const personalInfo = {
   name: "Abhipsa Thakur",
   titles: [
