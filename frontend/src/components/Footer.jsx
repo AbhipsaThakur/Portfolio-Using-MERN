@@ -13,7 +13,7 @@ const Footer = () => {
           <p className="flex items-center space-x-2 text-gray-400 text-sm">
             <span>Made with</span>
             <Heart className="text-red-500 fill-current" size={16} />
-            <span>using React & Tailwind CSS</span>
+            <span>using MERN STACK</span>
           </p>
         </div>
       </div>

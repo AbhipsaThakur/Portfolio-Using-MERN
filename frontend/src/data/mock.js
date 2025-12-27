@@ -1,4 +1,4 @@
-
+import profileImg from "../Image/HeroImage1.jpg"
 export const personalInfo = {
   name: "Abhipsa Thakur",
   titles: [
@@ -10,7 +10,7 @@ export const personalInfo = {
   email: "abhipsathakur933@gmail.com",
   phone: "6370030671",
   location: "Bhubaneswar, India",
-  profileImage: "https://customer-assets.emergentagent.com/job_9f1b1377-93f3-4f11-b78f-a23921e55023/artifacts/88u4qo1s_HeroImage.jpg"
+  profileImage: profileImg
 };
 
 export const socialLinks = {
@@ -118,7 +118,7 @@ export const projects = [
     title: "Portfolio Using ReactJS",
     description: "A modern, responsive portfolio website showcasing projects and skills. Built with ReactJS featuring smooth animations and an elegant user interface.",
     technologies: ["React", "JavaScript", "CSS3", "HTML5"],
-    githubUrl: "https://github.com/AbhipsaThakur/Portfolio-Using-REACTJS",
+    githubUrl: "https://github.com/AbhipsaThakur/Portfolio-Using-MERN",
     category: "Frontend",
     image: "https://images.unsplash.com/photo-1554306274-f23873d9a26c?w=800&q=80"
   },
